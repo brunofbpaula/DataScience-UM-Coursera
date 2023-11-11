@@ -1,6 +1,6 @@
 <H1>INTRODUCTION TO DATA SCIENCE IN PYTHON</H1>
 
-> STATUS: Studying!
+> STATUS: Finished.
 
 Here is all my study during the Introduction to Data Science course, offered by the University of Michigan and issued by Coursera.
 Feel free to explore this repository with me!
@@ -13,3 +13,6 @@ This module starts with the opening of the pandas library and its data structure
 
 <h2>THIRD WEEK</h2>
 DataFrame overall manipulation, how to merge them, generate summary tables, group data into logical pieces, and manipulate dates. Also, it refreshes the concept of scales of data and discusses issues with creating metrics for analysis.
+
+<h2>FOURTH WEEK</h2>
+Introduction to a variety of statistical techniques such a distributions, sampling and t-tests.
